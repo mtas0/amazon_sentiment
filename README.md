@@ -1,5 +1,7 @@
-# amzn_sent
-sentiment_analysis_amazon_earphone_reviews
+# amazon_sentiment
 
+I am analysing Amazon reviews for certain earphones. I first obtain the polarity scores 
+of the reviews using NLTK's Sentiment Intensity Analyzer module and use these to perform an 
+LSTM layer model classification. 
 
-Data is obtained from Kaggle. 
+Dataset is obtained from Kaggle
